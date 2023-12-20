@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SafeSky</string>
+    <string name="unknown_error_message">Unknown Error</string>
+    <string name="api_error_message">There is an error when pulling data from the server. Either the server is down or your phone has trouble connecting to it.</string>
+    <string name="api_error_title">Network Error</string>
+    <string name="negative_button_1">Got it</string>
+    <string name="api_no_data_text">(Data unavailable)</string>
+    <string name="airPollutionLabel1">Air Quality</string>
+    <string name="airPollutionCaqi">AQI value</string>
+    <string name="airPollutionNo2">Nitrogen Dioxide (NO2)</string>
+    <string name="airPollutionO3">Ozone (O3)</string>
+    <string name="airPollutionPm2_5">&lt; 2.5μm Inhalable Particles (PM2.5)</string>
+    <string name="airPollutionPm10">&lt; 10μm Inhalable Particles (PM10)</string>
+    <string name="airPollutionUgm3">µg/m^3</string>
+    <string name="airPollutionSummaryText">(Loading...)</string>
+    <string name="txtDegree">18°</string>
+    <string name="txtWindSpeed">11 MPH</string>
+    <string name="txtWind">Wind</string>
+    <string name="txtFeelsLike">Feels Like</string>
+    <string name="txtHumidPercentage">68%</string>
+    <string name="txtHumid">Humidity</string>
+    <string name="cityName">City</string>
+    <string name="day">Day</string>
+    <string name="date">Day, Month, Year</string>
+    <string name="temperature">00</string>
+    <string name="weatherDescription">Weather Description</string>
+    <string name="minTemperature">00</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="airPollutionSelectDataTypeLabel">CLICK to check Other POLLUTANTS?</string>
+    <string name="airPollutionShowHistoryLabel">See history</string>
+    <string name="celsius">℃</string>
+    
+    <string name="fragmentTagAirPollution">airPollutionFragment</string>
+    <string name="loading">Loading...</string>
+    <string name="invalid_city">Please enter a valid city name</string>
+    <string name="default_city">London</string>
+    <string name="add_city">Add city</string>
+    <string name="get_city">Get city</string>
+    <string name="enter_zipcode">Enter zipcode</string>
+    <string name="feels_like">"%d °C"</string>
+    <string name="pollutants">Pollutants</string>
+    <string name="error">error</string>
+</resources>
